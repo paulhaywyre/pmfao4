@@ -1,0 +1,23 @@
+{
+	"content": [{
+			"id": 1,
+			"title": "Force data introduction",
+			"content": "As of October 2019, we've updated the ",
+			"description": "Introduction text at the start of the force data screen",
+			"location": "community.forcedata",
+			"priority": 1,
+			"publishedDate": "2019-10-24",
+			"lastUpdated": "2019-10-21T09:28:56"
+		},
+		{
+			"id": 2,
+			"title": "Products introduction",
+			"content": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita",
+			"description": "Introduction text at the start of the products screen",
+			"location": "info.products",
+			"priority": 1,
+			"publishedDate": "2019-10-24",
+			"lastUpdated": "2019-10-21T09:28:56"
+		}
+	]
+}
