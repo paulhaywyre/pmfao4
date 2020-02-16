@@ -1,7 +1,7 @@
 {
 	"content": [{
 			"id": 1,
-			"title": "Force data introduction",
+			"title": "Force data",
 			"content": "As of October 21st, we’ve updated the penetration rate table. Average penetration rate is: 35%",
 			"description": "Introduction text at the start of the force data screen",
 			"location": "community.forcedata",
